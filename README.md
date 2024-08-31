@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">A software engineer.</h3>
 
-<p align="center">Dedicated Software Engineer with over 5 years' experience in web development, back-end development and object-oriented design experience. I love working with people to dothings bigger than I could accomplish alone. A quick learner in a working environment while able to meet targets and deadlines with good precision. I yearn to always learn more to become a better programmer and version of myself.</p>
+<p align="center">Dedicated Software Engineer with over 5 years' experience leading both front-end and back-end development, and performing quality assurance. I love working with people to do things bigger than I could accomplish alone. A quick learner in a working environment while able to meet targets and deadlines with good precision. I yearn to always learn more to become a better programmer and version of myself.</p>
 <p><a href="https://vhisyhnu.github.io/vhisyhnuvimilan.github.io/"><img src="https://img.shields.io/badge/-vhisyhnu.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/vhisyhnu-vimilan-763295182/"><img src="https://img.shields.io/badge/-@vhisyhnu-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/vhisyhnu-vimilan-763295182/" alt="LinkedIn Badge"></a> <a href="https://dev.to/vhisyhnu"><img src="https://img.shields.io/badge/-@vhisyhnu-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/vhisyhnu" alt="DevTo Badge"></a></p>
 </br>
  
