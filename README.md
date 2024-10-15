@@ -3,7 +3,9 @@
 </h1>
 <h3 align="center">A software engineer.</h3>
 
-<p align="center">Dedicated Software Engineer with over 5 years' experience leading both front-end and back-end development, and performing quality assurance. I love working with people to do things bigger than I could accomplish alone. A quick learner in a working environment while able to meet targets and deadlines with good precision. I yearn to always learn more to become a better programmer and version of myself.</p>
+<p align="center">I am a dedicated Software Engineer with over 5 years of experience in web and back-end development, specializing in technologies such as Angular, .Net Core, NestJS, and React. I have successfully contributed to a range of projects in both startup and corporate settings, thriving on collaboration and the power of teamwork to achieve greater goals. A quick learner, I adapt to new challenges and consistently meet targets with precision, while my commitment to high-quality solutions drives me to optimize performance and enhance code quality through best practices like unit testing and effective version control. I excel in Agile environments, working closely with cross-functional teams to ensure project goals align with stakeholder expectations. </p>
+
+<p align="center">Let’s connect and explore how we can collaborate to create impactful software solutions!</p>
 <p><a href="https://vhisyhnu.github.io/vhisyhnuvimilan.github.io/"><img src="https://img.shields.io/badge/-vhisyhnu.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/vhisyhnu-vimilan-763295182/"><img src="https://img.shields.io/badge/-@vhisyhnu-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/vhisyhnu-vimilan-763295182/" alt="LinkedIn Badge"></a> <a href="https://dev.to/vhisyhnu"><img src="https://img.shields.io/badge/-@vhisyhnu-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/vhisyhnu" alt="DevTo Badge"></a></p>
 </br>
  
